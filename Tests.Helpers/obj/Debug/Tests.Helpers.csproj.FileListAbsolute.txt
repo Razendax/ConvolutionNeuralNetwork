@@ -1,0 +1,9 @@
+C:\Programming\ConvolutionNeuralNetwork\Tests.Helpers\bin\Debug\Tests.Helpers.dll
+C:\Programming\ConvolutionNeuralNetwork\Tests.Helpers\bin\Debug\Tests.Helpers.pdb
+C:\Programming\ConvolutionNeuralNetwork\Tests.Helpers\bin\Debug\ConvolutionNeuralNetwork.Infrastructure.dll
+C:\Programming\ConvolutionNeuralNetwork\Tests.Helpers\bin\Debug\ConvolutionNeuralNetwork.Infrastructure.pdb
+C:\Programming\ConvolutionNeuralNetwork\Tests.Helpers\obj\Debug\Tests.Helpers.csprojAssemblyReference.cache
+C:\Programming\ConvolutionNeuralNetwork\Tests.Helpers\obj\Debug\Tests.Helpers.csproj.CoreCompileInputs.cache
+C:\Programming\ConvolutionNeuralNetwork\Tests.Helpers\obj\Debug\Tests.Helpers.csproj.CopyComplete
+C:\Programming\ConvolutionNeuralNetwork\Tests.Helpers\obj\Debug\Tests.Helpers.dll
+C:\Programming\ConvolutionNeuralNetwork\Tests.Helpers\obj\Debug\Tests.Helpers.pdb

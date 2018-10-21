@@ -1,0 +1,12 @@
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\bin\Debug\ConsoleCNN.exe.config
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\bin\Debug\ConsoleCNN.exe
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\bin\Debug\ConsoleCNN.pdb
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\bin\Debug\ConvolutionNeuralNetwork.Infrastructure.dll
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\bin\Debug\ConvolutionNeuralNetwork.Model.dll
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\bin\Debug\ConvolutionNeuralNetwork.Infrastructure.pdb
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\bin\Debug\ConvolutionNeuralNetwork.Model.pdb
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\obj\Debug\ConsoleCNN.csprojAssemblyReference.cache
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\obj\Debug\ConsoleCNN.csproj.CoreCompileInputs.cache
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\obj\Debug\ConsoleCNN.csproj.CopyComplete
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\obj\Debug\ConsoleCNN.exe
+C:\Programming\ConvolutionNeuralNetwork\ConsoleCNN\obj\Debug\ConsoleCNN.pdb

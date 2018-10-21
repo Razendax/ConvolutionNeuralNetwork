@@ -1,0 +1,9 @@
+C:\Programming\ConvolutionNeuralNetwork\ConvolutionNeuralNetwork.Model\obj\Debug\ConvolutionNeuralNetwork.Model.csprojAssemblyReference.cache
+C:\Programming\ConvolutionNeuralNetwork\ConvolutionNeuralNetwork.Model\obj\Debug\ConvolutionNeuralNetwork.Model.csproj.CoreCompileInputs.cache
+C:\Programming\ConvolutionNeuralNetwork\ConvolutionNeuralNetwork.Model\bin\Debug\ConvolutionNeuralNetwork.Model.dll
+C:\Programming\ConvolutionNeuralNetwork\ConvolutionNeuralNetwork.Model\bin\Debug\ConvolutionNeuralNetwork.Model.pdb
+C:\Programming\ConvolutionNeuralNetwork\ConvolutionNeuralNetwork.Model\bin\Debug\ConvolutionNeuralNetwork.Infrastructure.dll
+C:\Programming\ConvolutionNeuralNetwork\ConvolutionNeuralNetwork.Model\bin\Debug\ConvolutionNeuralNetwork.Infrastructure.pdb
+C:\Programming\ConvolutionNeuralNetwork\ConvolutionNeuralNetwork.Model\obj\Debug\ConvolutionNeuralNetwork.Model.csproj.CopyComplete
+C:\Programming\ConvolutionNeuralNetwork\ConvolutionNeuralNetwork.Model\obj\Debug\ConvolutionNeuralNetwork.Model.dll
+C:\Programming\ConvolutionNeuralNetwork\ConvolutionNeuralNetwork.Model\obj\Debug\ConvolutionNeuralNetwork.Model.pdb

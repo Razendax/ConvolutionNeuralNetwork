@@ -1,0 +1,12 @@
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\bin\Debug\ConsoleMultiLayer.exe.config
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\bin\Debug\ConsoleMultiLayer.exe
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\bin\Debug\ConsoleMultiLayer.pdb
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\bin\Debug\ConvolutionNeuralNetwork.Infrastructure.dll
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\bin\Debug\ConvolutionNeuralNetwork.Model.dll
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\bin\Debug\ConvolutionNeuralNetwork.Infrastructure.pdb
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\bin\Debug\ConvolutionNeuralNetwork.Model.pdb
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\obj\Debug\ConsoleMultiLayer.csprojAssemblyReference.cache
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\obj\Debug\ConsoleMultiLayer.csproj.CoreCompileInputs.cache
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\obj\Debug\ConsoleMultiLayer.csproj.CopyComplete
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\obj\Debug\ConsoleMultiLayer.exe
+C:\Programming\ConvolutionNeuralNetwork\ConsoleMultiLayer\obj\Debug\ConsoleMultiLayer.pdb
